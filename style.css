@@ -1,5 +1,5 @@
 
-#survey-form:{al}
+
 #title{text-align: center;}
 #description{ font-size: 20px;text-align: center; color:black;}
 #divcol{background-color:rgba(27, 27, 50, 0.8); width: 700px; opacity: 1; margin:auto; height: 1500px;}
@@ -25,4 +25,16 @@ body {
   background-image: url(https://images.unsplash.com/photo-1526666923127-b2970f64b422?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8ZXh0cmElMjBsYXJnZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80);
   background-repeat: round;
   background-attachment: fixed;
+}
+@media(max-width:400px){
+  #divcol{width: 400px; height: 2000px;}
+  #name-label{width: 350px; padding:20px;}
+  #email-label{width: 350px; }
+  #number-label{width: 350px;}
+  #role{width: 350px; }
+  #role1{width: 350px;}
+  #email1{ width: 350px;}
+  #submit{width: 350px;}
+
+
 }
