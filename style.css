@@ -1,20 +1,23 @@
 
 #survey-form:{al}
-#title{text-align: center; color:black;}
+#title{text-align: center;}
 #description{ font-size: 20px;text-align: center; color:black;}
 #divcol{background-color:rgba(27, 27, 50, 0.8); width: 700px; opacity: 1; margin:auto; height: 1500px;}
-#name{text-align: justify; font-size: 25px; color:white; padding: 0px; position:relative; left:20px; top: 40px;}
-#email{ text-align: justify; font-size: 25px; color:white; padding: 0px; position:relative; left:20px; top: 40px;}
+#name{text-align:; font-size: 25px; color:white; padding: 0px; position:relative; left:20px; top: 40px;}
+#name1{text-align:; font-size: 25px; color:white; padding: 10px; position:relative; left:20px; top: 100px;}
+#email{ text-align: ; font-size: 25px; color:white; padding: 0px; position:relative; left:20px; top: 40px;}
+#email1{ text-align: ; font-size: 25px; color:rgb(0, 0, 0); padding: 0px; position:relative; left:20px; top: 350px;}
 #name-label{width: 600px; height: 5px; padding:20px;}
 #email-label{width: 600px; height: 5px; padding:20px;}
 #number-label{width: 600px; height: 5px; padding:20px;}
 #dropdown{}
-#submit{width: 600px; height: 50px; text-align: center;position:relative; left:20px; top: 210px; background-color: green; color: white; font-size: 20px; font-weight: bold;}
+#submit{width: 565px; height: 50px; text-align: center;position:relative; left:20px; top: 360px;  font-size: 20px; font-weight: bold;}
 #role{width: 600px; height: 5px; padding:20px;}
+#role1{width: 600px; height: 5px; padding:30px; position: relative; top: 40px;}
 #recommend{width: 600px; height: 5px; padding:20px;}
 #recommend-word{color:white; font-size:20px;}
 #comment {text-align: center; font-size: 25px; color:white; padding: 10px; position:relative; left:20px; top: 40px;}
-#comment-label{width: 600px; height: 100px; padding:20px; position:relative; left:px; top: 300px; color:white; font-size:25px;}
+#comment-label{width: 600px; height: 100px; padding:20px; position:relative; left:px; top: 400px; color:white; font-size:25px;}
 #comment-lab{ width: 600px; height: 100px; position:relative; left:px; top: 166px; padding:20px;font-size:20px;}
 #new{color:white; font-size:25px;}
 
