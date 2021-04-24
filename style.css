@@ -37,7 +37,7 @@ body {
   #submit{width: 350px;}
 }
 
-@media(max-width:600px){
+@media(max-width:250px){
   #divcol{width: 370px; height: 2500px;}
   #name-label{width: 250px; padding:20px;}
   #email-label{width: 250px; }
