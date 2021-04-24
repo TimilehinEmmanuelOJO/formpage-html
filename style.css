@@ -35,6 +35,17 @@ body {
   #role1{width: 350px;}
   #email1{ width: 350px;}
   #submit{width: 350px;}
+}
 
+@media(max-width:600px){
+  #divcol{width: 370px; height: 2500px;}
+  #name-label{width: 250px; padding:20px;}
+  #email-label{width: 250px; }
+  #number-label{width: 250px;}
+  #role{width: 250px; }
+  #role1{width: 250px;}
+  #email1{ width: 250px;}
+  #submit{width: 250px;}
+  #name1{padding-top: 10px; margin-left: 10px;}
 
 }
